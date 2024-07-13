@@ -13,7 +13,7 @@ Each solution is stored in a separate Python file named according to the followi
 
 ## 🚀 How to Use
 
-1. 📥 Clone this repository: `git clone https://github.com/your-username/daily-coding-challenge.git`
+1. 📥 Clone this repository: `git clone https://github.com/quang2719/Daily-Coding-Challenge---Leetcode`
 2. 📂 Navigate to a specific solution: `cd ddmm_leetcode_abc.py`
 3. ▶️ Run the solution: `python ddmm_leetcode_abc.py`
 
