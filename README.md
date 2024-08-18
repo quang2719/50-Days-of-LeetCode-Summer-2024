@@ -1,18 +1,20 @@
 # 50 Days of LeetCode Challenge
 
+[![LeetCode Logo](leetcode-logo.png)](https://leetcode.com/) [![Python Logo](python-logo.png)](https://www.python.org/)
+
 This repository documents my 50-day LeetCode coding challenge. I aimed to solve at least one problem every day for 50 days, and my longest streak was 34 days.
 
 ## Challenge Summary
 
-* **Duration:** 50 days
-* **Longest Streak:** 34 days
-* **Total Problems Solved:** [Insert total number of problems solved]
-* **Final Rank:** [Insert your final rank]
+* 📅 **Duration:** 50 days
+* 🔥 **Longest Streak:** 34 days
+* 🧮 **Total Problems Solved:** [Insert total number of problems solved]
+* 🏆 **Final Rank:** [Insert your final rank]
 
 ## Proof of Completion
 
-* **Leaderboard Screenshot:** [Insert link to your leaderboard screenshot]
-* **Activity Calendar:** [Insert link to your activity calendar screenshot]
+* 📊 **Leaderboard Screenshot:** [Insert link to your leaderboard screenshot]
+* 📆 **Activity Calendar:** [Insert link to your activity calendar screenshot]
 
 ## Solutions
 
