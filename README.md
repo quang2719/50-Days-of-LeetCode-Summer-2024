@@ -2,7 +2,7 @@
 
 [![LeetCode Logo](https://github.com/quang2719/Daily-Coding-Challenge---Leetcode/blob/main/50-Days-of-LeetCode-Summer-2024/IMG/leetcode.png?raw=true)](https://leetcode.com/) ![Python Logo](https://github.com/quang2719/Daily-Coding-Challenge---Leetcode/blob/main/50-Days-of-LeetCode-Summer-2024/IMG/python.png)
 
-This repository documents my 50-day LeetCode coding challenge. I aimed to solve at least one problem every day for 50 days, and my longest streak was 34 days.
+This repository documents my 50-day LeetCode coding challenge summer 2024. I aimed to solve at least one problem every day for 50 days, and my longest streak was 34 days.
 
 ## Challenge Summary
 
