@@ -1,26 +1,27 @@
-# 🐍 Daily Coding Challenge 🚀
+# 50 Days of LeetCode Challenge
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Solved-yellowgreen?style=flat-square&logo=leetcode)](https://leetcode.com/)
+This repository documents my 50-day LeetCode coding challenge. I aimed to solve at least one problem every day for 50 days, and my longest streak was 34 days.
 
-Welcome to my daily coding challenge repository! Here, I'm sharpening my Python skills by tackling LeetCode problems every day. 🧠
+## Challenge Summary
 
-## 📁 Structure
+* **Duration:** 50 days
+* **Longest Streak:** 34 days
+* **Total Problems Solved:** [Insert total number of problems solved]
+* **Final Rank:** [Insert your final rank]
 
-Each solution is stored in a separate Python file named according to the following convention:
-* `ddmm`: The date (day and month) when I solved the problem.
-* `leetcode_abc`: The LeetCode problem code.
+## Proof of Completion
 
-## 🚀 How to Use
+* **Leaderboard Screenshot:** [Insert link to your leaderboard screenshot]
+* **Activity Calendar:** [Insert link to your activity calendar screenshot]
 
-1. 📥 Clone this repository: `git clone https://github.com/quang2719/Daily-Coding-Challenge---Leetcode`
-2. 📂 Navigate to a specific solution: `cd ddmm_leetcode_abc.py`
-3. ▶️ Run the solution: `python ddmm_leetcode_abc.py`
+## Solutions
 
-## 🚧 Disclaimer
+This repository contains some of my solutions to the LeetCode problems I solved during the challenge. Please note that these solutions are provided for reference only and may not be the most optimal or efficient.
 
-These solutions are my personal attempts and may not be the most optimal. Feel free to explore, learn, and suggest improvements! 🙏
+## Disclaimer
 
-## 📜 License
+I am not affiliated with LeetCode in any way. This challenge was a personal goal, and I am sharing my experience and solutions in the hope that they may be helpful to others.
 
-This repository is licensed under the MIT License.
+## License
+
+This repository is licensed under the MIT License. Feel free to use, modify, and distribute the code as you see fit.
